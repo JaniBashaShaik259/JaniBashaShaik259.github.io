@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Jani Basha Shaik
+Jani Basha Shaik
+Data Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+janibashashaik917@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 95501 09657
 
 Birthday
-June 23, 1982
+Aug 11, 2003
 
 Location
-Sacramento, California, USA
+Andhra Pradesh, India
 
 # navbar
 
